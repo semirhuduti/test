@@ -20,6 +20,7 @@ public class TestGit {
         System.out.println("Hej");
         System.out.println("Hej Milos");
         System.out.println("asdasdadsdd");
+        System.out.println("asdasd");
         
     }
     
