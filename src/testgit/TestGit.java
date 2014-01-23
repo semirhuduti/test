@@ -19,6 +19,7 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.println("Hej");
         System.out.println("Hej Milos");
+        System.out.println("asdasdadsdd");
         
     }
     
