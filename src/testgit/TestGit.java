@@ -15,8 +15,11 @@ public class TestGit {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
         System.out.println("Hej");
+        System.out.println("Hej Milos");
+        
     }
     
 }
